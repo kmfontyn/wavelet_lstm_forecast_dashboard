@@ -1,0 +1,9 @@
+streamlit
+streamlit-autorefresh
+tensorflow
+scikit-learn
+matplotlib
+pandas
+pywt
+yfinance
+numpy
