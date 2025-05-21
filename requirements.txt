@@ -1,6 +1,6 @@
 streamlit
 streamlit-autorefresh
-tensorflow
+tensorflow==2.11.1
 scikit-learn
 matplotlib
 pandas
